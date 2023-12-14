@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+}
+
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -8,7 +13,7 @@
     display: flex;
     list-style-type: none;
     font-weight: bold;
-    position: relative;
+position: relative;
     right: 30px;
 }
 
@@ -35,18 +40,20 @@
 }
 
 
+.box {
+    width: 80%;
+    height: 100px;
+    background-color: #00008B;
+}
+
 .cont__img {
     position: absolute;
     width: 60%;
-    left: 50%;
+    right: 0;
     bottom: 50%;
 }
 
 
-.box {
-    width: 80%;
-    height: 170px;
-    background-color: #00008B;
-}
+
 
 
