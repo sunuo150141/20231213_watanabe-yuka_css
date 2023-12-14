@@ -24,14 +24,14 @@
 
 .cont {
     position: relative;
-    top: 100px;
+    top: 300px;
     right: 10px;
 }
 
 .heading {
     font-size: 62px;
     position: relative;
-    top: 180px;
+    top: 380px;
 }
 
 
@@ -43,8 +43,8 @@
 
 .cont__img {
     position: absolute;
-    height: 350px;
-    width: 580px;
+    height: 450px;
+    width: 650px;
     left: 65.3%;
     bottom: 50%;
 }
